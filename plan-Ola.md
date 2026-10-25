@@ -1,0 +1,1 @@
+- Chcę nauczyć się pracy zespołowej z Gitem i GitHubem
