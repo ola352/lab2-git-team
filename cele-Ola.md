@@ -1,0 +1,2 @@
+- Zaliczyć Full stack development na 5
+- Zbudować własną aplikację full stack
