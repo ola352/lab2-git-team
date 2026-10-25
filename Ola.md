@@ -6,3 +6,7 @@ Bla Bla Bla Bla Bla.
 ## Hobby
 
 Lubię programowanie i czytanie ksiażek.
+
+## Hobby
+
+Lubię programowanie i czytanie ksiażek
