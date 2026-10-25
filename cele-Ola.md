@@ -1,0 +1,1 @@
+- Zaliczyć Full stack development na 5
