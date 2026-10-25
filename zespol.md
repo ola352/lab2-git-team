@@ -1,5 +1,5 @@
 # Zespół
-Nazwa zespołu: ???
+Nazwa zespołu: Bitowe Orły
 ## Skład
 Ola
 ## Motto
