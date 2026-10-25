@@ -1,4 +1,4 @@
-# Zespół
+## Drużyna ##
 
 Nazwa zespołu: Bitowe Orły
 ## Skład
