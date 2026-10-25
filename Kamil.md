@@ -2,6 +2,6 @@ Jestem Kamil
 21305
 Gipsior017 / Gipsior17
 #Hobby
-Lotnictwo i nie tylko
+Lotnictwo
 #inne
 lubie również spać
