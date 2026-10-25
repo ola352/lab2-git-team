@@ -9,3 +9,4 @@ Ola, Kamil
 
 ## Ulubione technologie
 React, Drony
+Data zajęć: 26.10.2026
