@@ -1,1 +1,3 @@
 - Chcę nauczyć się pracy zespołowej z Gitem i GitHubem
+- Chcę lepiej rozumieć rozwiązywanie konfliktów
+- Chcę sprawnie korzystać z Pull Requestów
