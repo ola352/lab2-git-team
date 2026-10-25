@@ -4,4 +4,4 @@ Gipsior017 / Gipsior17
 #Hobby
 Lotnictwo
 #inne
-lubie również spać
+lubię również spać
