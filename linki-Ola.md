@@ -1,1 +1,2 @@
 - https://git-scm.com/doc
+- https://docs.github.com/pull-requests
